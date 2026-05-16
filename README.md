@@ -1,2 +1,20 @@
 # CodeAlpha_EDA
-This project performs Exploratory Data Analysis (EDA) on the Titanic dataset using Python. The analysis includes data cleaning, missing value detection, statistical summaries, data visualization, and identification of trends and patterns affecting passenger survival using Pandas, Matplotlib, and Seaborn.
+
+## Objective
+Perform Exploratory Data Analysis on Titanic dataset.
+
+## Technologies Used
+- Python
+- Pandas
+- Matplotlib
+- Seaborn
+
+## Analysis Performed
+- Missing value analysis
+- Survival analysis
+- Gender analysis
+- Passenger class analysis
+- Correlation heatmap
+
+## Dataset
+Titanic Dataset
